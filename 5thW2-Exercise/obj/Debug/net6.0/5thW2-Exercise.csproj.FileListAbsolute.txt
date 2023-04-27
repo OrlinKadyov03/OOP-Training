@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\bin\Debug\net6.0\5thW2-Exercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\bin\Debug\net6.0\5thW2-Exercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\bin\Debug\net6.0\5thW2-Exercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\bin\Debug\net6.0\5thW2-Exercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\bin\Debug\net6.0\5thW2-Exercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\obj\Debug\net6.0\5thW2-Exercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\obj\Debug\net6.0\5thW2-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\obj\Debug\net6.0\5thW2-Exercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\obj\Debug\net6.0\5thW2-Exercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\obj\Debug\net6.0\5thW2-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\obj\Debug\net6.0\5thW2-Exercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\obj\Debug\net6.0\refint\5thW2-Exercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\obj\Debug\net6.0\5thW2-Exercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\obj\Debug\net6.0\5thW2-Exercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\5thW2-Exercise\obj\Debug\net6.0\ref\5thW2-Exercise.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\bin\Debug\net6.0\OOP-Course - SecondDocument.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\bin\Debug\net6.0\OOP-Course - SecondDocument.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\bin\Debug\net6.0\OOP-Course - SecondDocument.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\bin\Debug\net6.0\OOP-Course - SecondDocument.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\bin\Debug\net6.0\OOP-Course - SecondDocument.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\obj\Debug\net6.0\OOP-Course - SecondDocument.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\obj\Debug\net6.0\OOP-Course - SecondDocument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\obj\Debug\net6.0\OOP-Course - SecondDocument.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\obj\Debug\net6.0\OOP-Course - SecondDocument.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\obj\Debug\net6.0\OOP-Course - SecondDocument.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\obj\Debug\net6.0\OOP-Course - SecondDocument.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\obj\Debug\net6.0\refint\OOP-Course - SecondDocument.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\obj\Debug\net6.0\OOP-Course - SecondDocument.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\obj\Debug\net6.0\OOP-Course - SecondDocument.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP-Course - SecondDocument\OOP-Course - SecondDocument\obj\Debug\net6.0\ref\OOP-Course - SecondDocument.dll
