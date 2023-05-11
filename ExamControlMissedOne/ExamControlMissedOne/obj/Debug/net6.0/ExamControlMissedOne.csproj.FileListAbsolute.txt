@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\bin\Debug\net6.0\ExamControlMissedOne.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\bin\Debug\net6.0\ExamControlMissedOne.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\bin\Debug\net6.0\ExamControlMissedOne.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\bin\Debug\net6.0\ExamControlMissedOne.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\bin\Debug\net6.0\ExamControlMissedOne.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\obj\Debug\net6.0\ExamControlMissedOne.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\obj\Debug\net6.0\ExamControlMissedOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\obj\Debug\net6.0\ExamControlMissedOne.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\obj\Debug\net6.0\ExamControlMissedOne.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\obj\Debug\net6.0\ExamControlMissedOne.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\obj\Debug\net6.0\ExamControlMissedOne.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\obj\Debug\net6.0\refint\ExamControlMissedOne.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\obj\Debug\net6.0\ExamControlMissedOne.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\obj\Debug\net6.0\ExamControlMissedOne.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ExamControlMissedOne\ExamControlMissedOne\obj\Debug\net6.0\ref\ExamControlMissedOne.dll
