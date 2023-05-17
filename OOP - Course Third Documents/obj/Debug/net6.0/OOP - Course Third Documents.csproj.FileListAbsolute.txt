@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\bin\Debug\net6.0\OOP - Course Third Documents.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\bin\Debug\net6.0\OOP - Course Third Documents.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\bin\Debug\net6.0\OOP - Course Third Documents.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\bin\Debug\net6.0\OOP - Course Third Documents.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\bin\Debug\net6.0\OOP - Course Third Documents.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\obj\Debug\net6.0\OOP - Course Third Documents.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\obj\Debug\net6.0\OOP - Course Third Documents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\obj\Debug\net6.0\OOP - Course Third Documents.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\obj\Debug\net6.0\OOP - Course Third Documents.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\obj\Debug\net6.0\OOP - Course Third Documents.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\obj\Debug\net6.0\OOP - Course Third Documents.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\obj\Debug\net6.0\refint\OOP - Course Third Documents.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\obj\Debug\net6.0\OOP - Course Third Documents.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\obj\Debug\net6.0\OOP - Course Third Documents.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Third Documents\OOP - Course Third Documents\obj\Debug\net6.0\ref\OOP - Course Third Documents.dll

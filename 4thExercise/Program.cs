@@ -1,24 +1,15 @@
 ﻿namespace _4thExercise
 {
     internal class Program
-
-    {   //The user enters 10 numbers.
-        //The program displays only the unique numbers.
-        //Use HashSet.
+    {
         static void Main(string[] args)
         {
-            HashSet<int> uniqueNumbers = new HashSet<int>();
-            Console.WriteLine("Enter 10 numbers:");
-            for (int i = 0; i < 10; i++)
-            {
-                int num = int.Parse(Console.ReadLine());
-                uniqueNumbers.Add(num);
-            }
-            Console.WriteLine("Unique numbers:");
-            foreach (int unique in uniqueNumbers)
-            {
-                Console.WriteLine(unique);
-            }
+            //Create a Muffin class with Name and Price properties.
+            //Create a Bakery class with a
+            //List<Muffin> (list of muffins/snacks) in the bakery.
+            //In the Bakery class, we have an Order(string name, int quantity) method,
+            //and the idea of ​​the method is
+            //to add N number of snacks with the given name to the list of snacks.
         }
     }
 }
