@@ -2,31 +2,50 @@
 {
     internal class Program
     {
-
-        //User enters student name and grade.
-        //Student names are unique.
-        //Use a Dictionary data structure to store the data.
-        //Then show all students and their grades.
         static void Main(string[] args)
         {
-            Dictionary<string, int> studentGrades = new Dictionary<string, int>();
-            while (true)
+            //Create a Restaurant class and a Dish class.
+            //At Restaurant we have a list from Dish.
+            //Each dish has an Ingredient list.
+            //Each ingredient name Name.
+            //Create a list of several restaurants,
+            //with each restaurant having several dishes.
+            //The user enters the name of an ingredient
+            //and the program prints to him at which restaurant
+            //and what he can eat with the given ingredient.
+
+            
+            List<Restaurant> restaurantOne = new List<Restaurant>();
+
+            List<Dish> Dishes = new List<Dish>();
+
+            string ingri = Console.ReadLine();
+
+
+            Restaurant restaurant = new Restaurant() { Name = "Paradise"} ;
+            Restaurant restaurantBig = new Restaurant() { Name = "Orlin's Restaurant" };
+            Ingridient ing = new Ingridient() { Name = "Svinsko" };
+            Ingridient ingTwo = new Ingridient() { Name = "Pileshko" };
+            Dish dish = new Dish() {Name = "Svinsko sys zele" };
+            Dish dishTwo = new Dish() { Name = "Pileshko s gybi" };
+
+
+            dishTwo.ingridients.Add(ingTwo);
+            dish.ingridients.Add(ing);
+            restaurant.Dishes.Add(dish);
+            restaurantBig.Dishes.Add(dishTwo);
+            restaurantOne.Add(restaurant);
+            restaurantOne.Add(restaurantBig);
+
+
+
+            var res = restaurantOne.Where(x => x.Dishes.Any(d => d.ingridients.Any(z => z.Name.ToLower() == ingri.ToLower()))).ToList();
+
+            foreach (var r in res)
             {
-                Console.WriteLine("Enter student name (or 'e' to end)");
-                string name = Console.ReadLine();
-                if (name == "e")
-                {
-                    break;
-                }
-                Console.WriteLine("Enter student grade");
-                int grade = int.Parse(Console.ReadLine());
-                studentGrades.Add(name, grade);
+                Console.WriteLine(r.Name);
             }
-            Console.WriteLine("All students and their grades:");
-            foreach (var pair in studentGrades)
-            {
-                Console.WriteLine("{0}: {1}", pair.Key, pair.Value);
-            }
+
         }
     }
 }

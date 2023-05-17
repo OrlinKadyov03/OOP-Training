@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\bin\Debug\net6.0\OOP - Course-Fourth Document.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\bin\Debug\net6.0\OOP - Course-Fourth Document.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\bin\Debug\net6.0\OOP - Course-Fourth Document.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\bin\Debug\net6.0\OOP - Course-Fourth Document.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\bin\Debug\net6.0\OOP - Course-Fourth Document.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\obj\Debug\net6.0\OOP - Course-Fourth Document.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\obj\Debug\net6.0\OOP - Course-Fourth Document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\obj\Debug\net6.0\OOP - Course-Fourth Document.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\obj\Debug\net6.0\OOP - Course-Fourth Document.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\obj\Debug\net6.0\OOP - Course-Fourth Document.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\obj\Debug\net6.0\OOP - Course-Fourth Document.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\obj\Debug\net6.0\refint\OOP - Course-Fourth Document.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\obj\Debug\net6.0\OOP - Course-Fourth Document.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\obj\Debug\net6.0\OOP - Course-Fourth Document.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course-Fourth Document\OOP - Course-Fourth Document\obj\Debug\net6.0\ref\OOP - Course-Fourth Document.dll
