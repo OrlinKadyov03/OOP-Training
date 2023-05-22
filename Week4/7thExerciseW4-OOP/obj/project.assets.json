@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\OOP Tasks\\OOP - Course-Fourth Document\\7thExerciseW4-OOP\\7thExerciseW4-OOP.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\OOP Tasks\\OOP-Training\\Week4\\7thExerciseW4-OOP\\7thExerciseW4-OOP.csproj",
       "projectName": "7thExerciseW4-OOP",
-      "projectPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\OOP Tasks\\OOP - Course-Fourth Document\\7thExerciseW4-OOP\\7thExerciseW4-OOP.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\OOP Tasks\\OOP-Training\\Week4\\7thExerciseW4-OOP\\7thExerciseW4-OOP.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\OOP Tasks\\OOP - Course-Fourth Document\\7thExerciseW4-OOP\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\OOP Tasks\\OOP-Training\\Week4\\7thExerciseW4-OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
