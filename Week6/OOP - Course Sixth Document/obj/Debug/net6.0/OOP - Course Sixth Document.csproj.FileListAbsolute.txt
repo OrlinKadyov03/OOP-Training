@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\bin\Debug\net6.0\OOP - Course Sixth Document.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\bin\Debug\net6.0\OOP - Course Sixth Document.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\bin\Debug\net6.0\OOP - Course Sixth Document.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\bin\Debug\net6.0\OOP - Course Sixth Document.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\bin\Debug\net6.0\OOP - Course Sixth Document.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\obj\Debug\net6.0\OOP - Course Sixth Document.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\obj\Debug\net6.0\OOP - Course Sixth Document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\obj\Debug\net6.0\OOP - Course Sixth Document.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\obj\Debug\net6.0\OOP - Course Sixth Document.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\obj\Debug\net6.0\OOP - Course Sixth Document.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\obj\Debug\net6.0\OOP - Course Sixth Document.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\obj\Debug\net6.0\refint\OOP - Course Sixth Document.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\obj\Debug\net6.0\OOP - Course Sixth Document.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\obj\Debug\net6.0\OOP - Course Sixth Document.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Sixth Document\OOP - Course Sixth Document\obj\Debug\net6.0\ref\OOP - Course Sixth Document.dll

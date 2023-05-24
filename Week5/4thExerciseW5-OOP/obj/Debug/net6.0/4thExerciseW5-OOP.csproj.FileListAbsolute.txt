@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\bin\Debug\net6.0\4thExerciseW5-OOP.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\bin\Debug\net6.0\4thExerciseW5-OOP.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\bin\Debug\net6.0\4thExerciseW5-OOP.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\bin\Debug\net6.0\4thExerciseW5-OOP.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\bin\Debug\net6.0\4thExerciseW5-OOP.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\obj\Debug\net6.0\4thExerciseW5-OOP.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\obj\Debug\net6.0\4thExerciseW5-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\obj\Debug\net6.0\4thExerciseW5-OOP.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\obj\Debug\net6.0\4thExerciseW5-OOP.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\obj\Debug\net6.0\4thExerciseW5-OOP.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\obj\Debug\net6.0\4thExerciseW5-OOP.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\obj\Debug\net6.0\refint\4thExerciseW5-OOP.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\obj\Debug\net6.0\4thExerciseW5-OOP.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\obj\Debug\net6.0\4thExerciseW5-OOP.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\OOP Tasks\OOP - Course Fifth Document\OOP - Course Fifth Document\4thExerciseW5-OOP\obj\Debug\net6.0\ref\4thExerciseW5-OOP.dll
