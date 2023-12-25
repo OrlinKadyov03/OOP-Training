@@ -1,2 +1,2 @@
 # OOP-Training
-OOP - Exercises for understanding. From simple to hard..
+OOP - Exercises for understanding. From simple to hard.
